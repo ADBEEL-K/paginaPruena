@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    background-color: violet;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-color: blueviolet;
+}
+img{
+    width: 40%;
+    height: auto;
+    border-radius: 50px;
+}
+section img{
+    align-content: center;
+}
